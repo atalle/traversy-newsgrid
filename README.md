@@ -1,2 +1,2 @@
 # traversy-newsgrid
-A concept news platform from Traversy Media tutorial. Built with HTML5, CSS &amp; a pint of ice cream!
+Newsgrid was a follow-along tutorial from Brad Traversy's Modern HTML & CSS From the Beginning course. 
